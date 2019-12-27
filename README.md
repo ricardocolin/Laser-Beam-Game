@@ -1,16 +1,23 @@
-# Classmeets Front-end Website
-This front-end website was develope using bootstrap framework, html, javascript, and css. Classmeets can be consider a prototype, is ment to help students and instructors, by being able to see eachothers' schedule and availability to meet and study for an exams or a class about a given topic. Classmeets would ultimately help by helping interact with eachother and improve students outcomes while in school. 
+# Laser Beam - Java Game
+Laser beam is a game developed using Java Language. It includes a runnable jar, sounds, images, edittable flash file, and the needed libraries for the game to function. This was based off a youtube tutorial. Feel free to try it out. There are some screenshots of the game play below.
 
-## Example:
-You can see the website running here: [Classmeets Example] (http://classmeets.tk/).
+## Running Laser Beam Game:
+Running the runnable Java Jar file access the following:
+PLAY GAME -> LaserBeamFat.jar
 
-## Running the website template:
-download the files and open them in the desired browser.
+Running the exe file access the following:
+PLAY GAME -> WindowsLASERBEAM.exe
 
 ## Screenshot Example:
 
-## Land Page
-![alt text](https://raw.githubusercontent.com/ricardocolin/Classmeets-Front-End/master/img/indexPage.png)
+## Start Screen
+![alt text](https://github.com/ricardocolin/Laser-Beam-Game/blob/master/img/Start.png)
 
-## Profile Page
-![alt text](https://raw.githubusercontent.com/ricardocolin/Classmeets-Front-End/master/img/profilePage.png)
+## Game over Screen
+![alt text](https://github.com/ricardocolin/Laser-Beam-Game/blob/master/img/gameOver.png)
+
+## Game play Screen
+![alt text](https://github.com/ricardocolin/Laser-Beam-Game/blob/master/img/gamePlay.png)
+
+## Shop store Screen
+![alt text](https://github.com/ricardocolin/Laser-Beam-Game/blob/master/img/shopStore.png)
